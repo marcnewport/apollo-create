@@ -1,0 +1,14 @@
+{
+  "name": "apollo-create",
+  "version": "0.1.0",
+  "description": "Theme scaffold for Apollo",
+  "bin": {
+    "apollo-create": "apollo-create.js"
+  },
+  "author": "marc@theworkingparty.com.au",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "github-download": "^0.5.0"
+  }
+}
